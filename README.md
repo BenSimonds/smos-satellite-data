@@ -6,3 +6,6 @@ Goal - pull some data from from the ESA SMOS Catelogue, which has satellite data
 ```
 docker-compose up
 ```
+
+# Example Output
+![Example Images](example.png)
